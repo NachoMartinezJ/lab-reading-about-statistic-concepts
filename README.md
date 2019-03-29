@@ -42,6 +42,8 @@ We think it will work but can we be sure? So instead of implementing this new bo
 Read more about A/B testing with a couple of examples:
 
 [Another example about Netflix here](http://select.video/artwork4)
+
 [What happened to Basecamp](http://millions.social/tested7)
+
 [An example with Python](http://math.social/tested3)
 
