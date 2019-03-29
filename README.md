@@ -36,7 +36,9 @@ One example:
 Our application has a lot of mini-games. We want people to reach the games that we think are the best but the behaviour is not the expected, they don't reach them.
 
 So we call a designer and after a lot of work he shows us a new design for our application: we will add a botton specific for that kinf of games inviting the users to click on it:
-**Click here to discover cool games!**
+
+*Click here to discover cool games!*
+
 We think it will work but can we be sure? So instead of implementing this new botton for all users, we implement it for 10% and we compare the results with the users that didn't have it. Is there a significant difference? Is our botton working?
 
 Read more about A/B testing with a couple of examples:
