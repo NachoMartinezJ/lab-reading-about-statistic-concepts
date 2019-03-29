@@ -17,3 +17,31 @@ As a good reference (once you have looked for some information) you have   [this
 We have told you that a lot of scientifical investigations are based on p-values. The last week, Nature magazine published [an article](http://nature.social/statistical4) regarding the problem. Start digging on it!
 
 Don't hesitate to use more articles if you want to :)
+
+
+## Challenge 3: Applying testing to a specific case: A/B testing.
+A/B testing is a widely used tool to understand differences between two samples. It is a way to measure the impact of something we did: 
+* A marketing campaign.
+* A new feature in our application. 
+* A new design in our application.
+* A different flow in the User Experience flow.
+
+To do this, is very important first to design our experiment. 
+* We need to know how we are measuring the impact. If people has the behaviour we want with this new implementation.
+* We choose a control group (people who doesn't have/see the new change) and the group which will see the new change. 
+* We think about how much data do we need.
+* We measure the difference between them.
+
+One example:
+Our application has a lot of mini-games. We want people to reach the games that we think are the best but the behaviour is not the expected, they don't reach them.
+
+So we call a designer and after a lot of work he shows us a new design for our application: we will add a botton specific for that kinf of games inviting the users to click on it:
+**Click here to discover cool games!**
+We think it will work but can we be sure? So instead of implementing this new botton for all users, we implement it for 10% and we compare the results with the users that didn't have it. Is there a significant difference? Is our botton working?
+
+Read more about A/B testing with a couple of examples:
+
+[Another example about Netflix here](http://select.video/artwork4)
+[What happened to Basecamp](http://millions.social/tested7)
+[An example with Python](http://math.social/tested3)
+
