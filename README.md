@@ -47,3 +47,5 @@ Read more about A/B testing with a couple of examples:
 
 [An example with Python](http://math.social/tested3)
 
+[A cool general explanation](http://arts.show/tested7)
+
